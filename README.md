@@ -1,2 +1,2 @@
 # GCI-Task
-It is a repository I created for a Google Code-In task by sugarlabs.
+Hello Sugar Labs. My name is Anish Mohan.
